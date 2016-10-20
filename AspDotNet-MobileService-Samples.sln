@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileService", "MobileService\MobileService.csproj", "{478101EE-0F30-49B7-8209-7576C1786BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudAzureMobileService", "CloudAzureMobileService\CloudAzureMobileService.csproj", "{A870BDE4-F2CA-42B1-B415-0B55D1E79ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcOAuth", "MvcSite-ExternalLogin\MvcOAuth.csproj", "{0495FE82-3460-499D-8D62-43526E190817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478101EE-0F30-49B7-8209-7576C1786BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478101EE-0F30-49B7-8209-7576C1786BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478101EE-0F30-49B7-8209-7576C1786BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478101EE-0F30-49B7-8209-7576C1786BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A870BDE4-F2CA-42B1-B415-0B55D1E79ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A870BDE4-F2CA-42B1-B415-0B55D1E79ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A870BDE4-F2CA-42B1-B415-0B55D1E79ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A870BDE4-F2CA-42B1-B415-0B55D1E79ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0495FE82-3460-499D-8D62-43526E190817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0495FE82-3460-499D-8D62-43526E190817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0495FE82-3460-499D-8D62-43526E190817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0495FE82-3460-499D-8D62-43526E190817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
